@@ -77,7 +77,7 @@ class Ochdog(discord.Client):
             self.connection = mysql.connector.connect(host='localhost',
                                                       database='OchData',
                                                       user='root',
-                                                      password='test',
+                                                      password='password goes here',
                                                       auth_plugin='mysql_native_password')
             self.connection.autocommit = True
             if self.connection.is_connected():
@@ -469,4 +469,4 @@ class Ochdog(discord.Client):
 
 
 ochdog = Ochdog()
-ochdog.run("OTYzMDI3MjEyMzYwMTAxOTE4.YlQG-w.PWNQZF-2ydS1p-FtD09jg-xeFpA")
+ochdog.run("token goes here")

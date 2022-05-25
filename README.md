@@ -31,5 +31,5 @@ The bot also creates a table for each user where it keeps data such as the numbe
 
 ## Examples of `info`, `random`, `reveal`
 
-![image](https://user-images.githubusercontent.com/44554446/170082660-adce5180-fb6c-4e4e-8fcf-db33188d7b94.png)
-![image](https://user-images.githubusercontent.com/44554446/170083198-b84203a1-968f-4c98-a8d9-61c1000d9346.png)
+![image](https://user-images.githubusercontent.com/44554446/170286503-b7dd9b07-d074-4be0-85a3-64e40df201bb.png)
+![image](https://user-images.githubusercontent.com/44554446/170286425-08e9f250-6434-4176-a476-9b4ebbaff62e.png)

@@ -15,7 +15,7 @@ The bot uses MySQL to store the message history data from every server and Pytho
 
 ## 🐕 Commands
 
-*   `update`: the most complex command, it validates and uploads the messsage history into the MySQL data base, so that it can be manipulated more easily
+*   `update`: the most complex command, it validates and uploads the message history into the MySQL data base, so that it can be manipulated more easily
 *   `random`: gives one anonymous random message from the channel history, the users can guess who might've sent the said message (examples with screenshots below)
 *   `reveal`: reveals the author, link, date and time of the previously posted anonymous message
 *   `info`: gives personalised information about the user (number of messages sent, number of active days in the server, number of interactions with other members, etc.)
